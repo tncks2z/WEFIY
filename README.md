@@ -13,3 +13,4 @@ ex. 03.30 15:00 예진_commit 내용 요약
 03.31 02:58 수찬_imdb & mydramalist 크롤링 코드 & csv 파일 '폴더'로 공유.
 03.31 09:20 창훈_Model(imdb+drama)(수정) 파일 공유
 03.31 10:10 은정_concat(imdb+mydramalist)csv 파일 공유
+03.31 16:11 은정_keyword_extraction_kmeans 파일 추가
