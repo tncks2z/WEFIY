@@ -24,4 +24,5 @@ ex. 03.30 15:00 예진_commit 내용 요약
 - 04.15 15:33 재영 korean_by_kiwi 키위 전처리 파일 추가
 - 04.20 09:33 수찬_Watcha 161개 드라마 리뷰 크롤링 파일 & csv 파일 추가
 - 04.20 09:37 재영 rewies_imdb.zip 드라마 리뷰 크롤링 파일 추가
-- 04.20 14:42 창훈 LDA(Mecab)모델 & letterboxd 크롤링 csv 파일 추가
+- 04.20 14:45 은정 reviews_mydramalist.zip 드라마 리뷰 크롤링 파일 추가
+- 04.20 14:50 창훈 LDA(Mecab)모델 & letterboxd 크롤링 csv 파일 추가
