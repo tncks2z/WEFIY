@@ -27,3 +27,4 @@ ex. 03.30 15:00 예진_commit 내용 요약
 - 04.20 14:45 은정 reviews_mydramalist.zip 드라마 리뷰 크롤링 파일 추가
 - 04.20 14:50 창훈 LDA(Mecab)모델 & letterboxd 크롤링 csv 파일 추가
 - 04.21 09:30 창훈 Langdetect 2가지 방법 구현 파일 추가
+- 04.21 17:57 은정 imdb,letter boxd,mydramalist 리뷰 concat 파일 추가
