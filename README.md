@@ -31,3 +31,5 @@ ex. 03.30 15:00 예진_commit 내용 요약
 - 04.22 09:55 수찬 Watcha LDA, KMeans, Word2Vec 구현 파일 각각 추가
 - 04.24 15:55 은정 english reviews 파일 추가
 - 04.24 16:05 예진 english reviews 전체 합친 파일, 코드 추가
+- 04.25 17:03 수찬 Korean 리뷰 전처리 및 길이 자르고 난 후 코드, csv 추가
+-
