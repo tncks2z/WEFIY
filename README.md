@@ -54,3 +54,4 @@ ex. 03.30 15:00 예진_commit 내용 요약
 - 05.06 13:50 수찬 영어 한국적 특색이 포함된 리뷰 코드, csv 추가
 - 05.06 17:25 재영 ENG_Keywords 코드,pickle,csv 추가
 - 05.06 18:05 재영 테마 리뷰 theme_Keywords pickle,csv 추가
+- 05.06 18:38 수찬 "0506_ENG_Korean_plus_Sentiment" 코드, csv 추가
