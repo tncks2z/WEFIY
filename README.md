@@ -5,7 +5,7 @@
 ex. 03.30 15:00 예진_commit 내용 요약
 
 [previous 폴더]
-하루 이상 지난 파일들은 previous 폴더로 이동!
+멘토링 이전 파일들은 previous 폴더로 이동!
 
 [code-log] pull 잊지 말자!!
 - 03.28 19:00 예진 imdb review 크롤링 코드 & csv 파일 공유.
