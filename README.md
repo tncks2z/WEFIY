@@ -55,4 +55,5 @@ ex. 03.30 15:00 예진_commit 내용 요약
 - 05.06 17:25 재영 ENG_Keywords 코드,pickle,csv 추가
 - 05.06 18:05 재영 테마 리뷰 theme_Keywords pickle,csv 추가
 - 05.06 18:38 수찬 "0506_ENG_Korean_plus_Sentiment" 코드, csv 추가
+- 05.09 15:35 재영 긍부정처리 키워드 코드, csv 추가
 - 05.10 13:15 창훈 카테고리별 드라마 그룹화 코드 추가
