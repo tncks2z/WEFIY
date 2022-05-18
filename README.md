@@ -62,3 +62,4 @@ ex. 03.30 15:00 예진_commit 내용 요약
 - 05.12 11:51 재영 한국어 리뷰 요약 코드, 0512_KOR_summary.csv 추가
 - 05.16 19:38 은정 한국어, 영어 리뷰 요약 0516_english_summarize.csv, 0516_ko_to_en_summarize.csv 추가
 - 05.18 15:41 수찬 영어 PipeLine 코드 추가
+- 05.18 17:27 수찬 한국어 PipeLine 코드 추가(Grouping 부재)
